@@ -1,7 +1,0 @@
-create a home page after login there i need features to:
-1. manage profile: includes managing contacts  of favourites , family, friend 
-2. to set the from and to location to get the estimated time to get there 
-3. to give a normal alert to selected group of people with the live location and estimated tinme and route details
-4. to give emergency alert that includes the selected groups and police officers that includes live location all the detilas 
-5. also the user want to link any live docs and share woth others 
-give matching styles with the index page that i gave you
